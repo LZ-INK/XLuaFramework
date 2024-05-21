@@ -1,0 +1,11 @@
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+XLuaFramework.sln
+Library/
+Logs/
+obj/
+Packages/
+Temp/
+UserSettings/
+ProjectSettings/
