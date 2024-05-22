@@ -10,6 +10,8 @@ public class PathUtil
 
     //bundle输出目录
     public static readonly string BuildOutPath = Application.streamingAssetsPath;
+
+    public static string BundleResourcePath { get { return Application.streamingAssetsPath; } }
     /// <summary>
     /// 获取unity相对目录
     /// </summary>
@@ -20,7 +22,7 @@ public class PathUtil
         if (string.IsNullOrEmpty(path)) { 
         return string.Empty;
         }
-        return path.Substring(path.IndexOf("Assets"));
+        return GetStandarPath(path.Substring(path.IndexOf("Assets")));
     }
     /// <summary>
     /// 获取标准路径

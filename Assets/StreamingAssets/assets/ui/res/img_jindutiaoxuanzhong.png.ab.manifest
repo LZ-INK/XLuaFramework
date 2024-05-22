@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3249645974
+CRC: 126114565
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 023039b532a9e2917bca6697480fc3fa
+    Hash: f7b180c63febd781aed0a355640b6ba3
   TypeTreeHash:
     serializedVersion: 2
     Hash: f267fd2d8bcb1179236b6179ac5313bc
@@ -15,5 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/BuildResources/UI/Res/background.png
+- Assets/BuildResources/UI/Res/img_jindutiaoxuanzhong.png
 Dependencies: []

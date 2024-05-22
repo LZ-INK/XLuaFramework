@@ -1,0 +1,8 @@
+Assets/BuildResources/UI/Prefab/LoadingUI.prefab|Assets//ui/prefab/loadingui.prefab.ab|Assets/BuildResources/UI/Res/background.png|Assets/BuildResources/UI/Res/img_jindutiaoxuanzhong.png|Assets/BuildResources/UI/Res/img_jindutiaodikuang.png
+Assets/BuildResources/UI/Res/background.png|Assets//ui/res/background.png.ab
+Assets/BuildResources/UI/Res/button_150.png|Assets//ui/res/button_150.png.ab
+Assets/BuildResources/UI/Res/img_jindutiaodikuang.png|Assets//ui/res/img_jindutiaodikuang.png.ab
+Assets/BuildResources/UI/Res/img_jindutiaoxuanzhong.png|Assets//ui/res/img_jindutiaoxuanzhong.png.ab
+Assets/BuildResources/UI/Res/radio_100.png|Assets//ui/res/radio_100.png.ab
+Assets/BuildResources/UI/Res/slider_handle.png|Assets//ui/res/slider_handle.png.ab
+Assets/BuildResources/UI/Res/universal_panel_40.png|Assets//ui/res/universal_panel_40.png.ab

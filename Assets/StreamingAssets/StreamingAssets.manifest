@@ -1,19 +1,31 @@
 ManifestFileVersion: 0
-CRC: 2349341425
+CRC: 4001834501
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
+      Name: assets/ui/prefab/loadingui.prefab.ab
+      Dependencies:
+        Dependency_0: assets/ui/res/background.png.ab
+        Dependency_1: assets/ui/res/img_jindutiaodikuang.png.ab
+        Dependency_2: assets/ui/res/img_jindutiaoxuanzhong.png.ab
+    Info_1:
       Name: assets/ui/res/background.png.ab
       Dependencies: {}
-    Info_1:
+    Info_2:
       Name: assets/ui/res/button_150.png.ab
       Dependencies: {}
-    Info_2:
-      Name: assets/ui/res/radio_100.png.ab
-      Dependencies: {}
     Info_3:
-      Name: assets/ui/res/slider_handle.png.ab
+      Name: assets/ui/res/img_jindutiaodikuang.png.ab
       Dependencies: {}
     Info_4:
+      Name: assets/ui/res/img_jindutiaoxuanzhong.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets/ui/res/radio_100.png.ab
+      Dependencies: {}
+    Info_6:
+      Name: assets/ui/res/slider_handle.png.ab
+      Dependencies: {}
+    Info_7:
       Name: assets/ui/res/universal_panel_40.png.ab
       Dependencies: {}
