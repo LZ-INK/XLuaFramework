@@ -11,3 +11,5 @@ UserSettings/
 ProjectSettings/
 .vs/XLuaFrameworkGit/FileContentIndex/
 .vs/XLuaFrameworkGit/v17/.suo
+Assets/BuildResources/Audio/Music/dayu.mp3
+Assets/BuildResources/Audio/Sound/ui_touch.wav

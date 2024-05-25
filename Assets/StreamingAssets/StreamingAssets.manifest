@@ -1,31 +1,84 @@
 ManifestFileVersion: 0
-CRC: 4001834501
+CRC: 1391580393
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: assets/ui/prefab/loadingui.prefab.ab
-      Dependencies:
-        Dependency_0: assets/ui/res/background.png.ab
-        Dependency_1: assets/ui/res/img_jindutiaodikuang.png.ab
-        Dependency_2: assets/ui/res/img_jindutiaoxuanzhong.png.ab
+      Name: assets/luascripts/main.bytes.ab
+      Dependencies: {}
     Info_1:
-      Name: assets/ui/res/background.png.ab
-      Dependencies: {}
+      Name: assets/scenes/test01.unity.ab
+      Dependencies:
+        Dependency_0: assets/model/mat/blue.mat.ab
     Info_2:
-      Name: assets/ui/res/button_150.png.ab
-      Dependencies: {}
+      Name: assets/scenes/test02.unity.ab
+      Dependencies:
+        Dependency_0: assets/model/mat/red.mat.ab
     Info_3:
-      Name: assets/ui/res/img_jindutiaodikuang.png.ab
+      Name: assets/audio/music/dayu.mp3.ab
       Dependencies: {}
     Info_4:
-      Name: assets/ui/res/img_jindutiaoxuanzhong.png.ab
+      Name: assets/audio/sound/ui_touch.wav.ab
       Dependencies: {}
     Info_5:
-      Name: assets/ui/res/radio_100.png.ab
+      Name: assets/luascripts/entity/playerentity.bytes.ab
       Dependencies: {}
     Info_6:
-      Name: assets/ui/res/slider_handle.png.ab
+      Name: assets/luascripts/scenes/scene01.bytes.ab
       Dependencies: {}
     Info_7:
+      Name: assets/luascripts/scenes/scene02.bytes.ab
+      Dependencies: {}
+    Info_8:
+      Name: assets/luascripts/ui/testui.bytes.ab
+      Dependencies: {}
+    Info_9:
+      Name: assets/model/mat/blue.mat.ab
+      Dependencies: {}
+    Info_10:
+      Name: assets/model/mat/red.mat.ab
+      Dependencies: {}
+    Info_11:
+      Name: assets/model/prefabs/player.prefab.ab
+      Dependencies: {}
+    Info_12:
+      Name: assets/ui/prefabs/loadingui.prefab.ab
+      Dependencies: {}
+    Info_13:
+      Name: assets/ui/prefabs/logic.prefab.ab
+      Dependencies:
+        Dependency_0: assets/ui/res/background.png.ab
+        Dependency_1: assets/ui/res/button_150.png.ab
+    Info_14:
+      Name: assets/ui/prefabs/testui.prefab.ab
+      Dependencies:
+        Dependency_0: assets/ui/res/background.png.ab
+        Dependency_1: assets/ui/res/button_150.png.ab
+    Info_15:
+      Name: assets/ui/res/background.png.ab
+      Dependencies: {}
+    Info_16:
+      Name: assets/ui/res/button_150.png.ab
+      Dependencies: {}
+    Info_17:
+      Name: assets/ui/res/img_jindutiaodikuang.png.ab
+      Dependencies: {}
+    Info_18:
+      Name: assets/ui/res/img_jindutiaoxuanzhong.png.ab
+      Dependencies: {}
+    Info_19:
+      Name: assets/ui/res/radio_100.png.ab
+      Dependencies: {}
+    Info_20:
+      Name: assets/ui/res/slider_handle.png.ab
+      Dependencies: {}
+    Info_21:
       Name: assets/ui/res/universal_panel_40.png.ab
+      Dependencies: {}
+    Info_22:
+      Name: assets/ui/prefabs/login/logic 1.prefab.ab
+      Dependencies:
+        Dependency_0: assets/ui/res/background.png.ab
+        Dependency_1: assets/ui/res/button_150.png.ab
+    Info_23:
+      Name: assets/ui/prefabs/login/loginui.prefab.ab
       Dependencies: {}
